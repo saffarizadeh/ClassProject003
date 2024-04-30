@@ -49,6 +49,7 @@ class Program
         customerAppointments.Add(ca2);
         customerAppointments.Add(ca3);
 
+        appointments = new List<Appointment>();
         appointments.Add(a1);
         appointments.Add(a2);
         appointments.Add(a3);
